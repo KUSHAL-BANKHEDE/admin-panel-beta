@@ -1,0 +1,17 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 300px;
+  }
+  
+  .login-icon {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  /* Add more styles as needed for other form elements */
